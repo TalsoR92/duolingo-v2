@@ -17,7 +17,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, reactive, toRefs } from "vue";
+import { defineComponent } from "vue";
 
 export default defineComponent({
 	name: "AddWordBox",
